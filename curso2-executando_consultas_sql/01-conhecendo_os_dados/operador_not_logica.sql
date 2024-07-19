@@ -1,0 +1,1 @@
+SELECT * FROM tabelafuncionarios WHERE NOT departamento = 'Recursos Humanos';
