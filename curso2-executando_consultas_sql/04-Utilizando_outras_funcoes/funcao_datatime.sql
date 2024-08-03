@@ -1,0 +1,1 @@
+  SELECT DATETIME('now');
