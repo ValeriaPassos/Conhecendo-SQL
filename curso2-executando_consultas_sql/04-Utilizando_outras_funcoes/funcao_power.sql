@@ -1,0 +1,1 @@
+SELECT POWER(2, 3);
